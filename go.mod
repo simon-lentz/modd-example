@@ -1,4 +1,4 @@
-module github.com/simon-lentz/calhoun/dynamic-reload
+module github.com/simon-lentz/modd-example
 
 go 1.20
 
